@@ -1,0 +1,111 @@
+ .u-section-1 {
+  background-image: url("images/default-image.jpg");
+  min-height: 1440px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 323px;
+  width: 509px;
+  margin-top: auto;
+  margin-left: calc(((100% - 1320px) / 2)  + 427px);
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: auto auto 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  height: auto;
+  min-height: 323px;
+  width: 502px;
+  margin-top: auto;
+  margin-left: calc(((100% - 1320px) / 2)  + 434px);
+  margin-bottom: 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1399px) {
+   .u-section-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: auto;
+    margin-left: calc(((100% - 1140px) / 2)  + 263px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 1140px) / 2)  + 394px);
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: auto;
+    margin-left: calc(((100% - 1140px) / 2)  + 284px);
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: calc(((100% - 940px) / 2)  + 190px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 940px) / 2)  + 265px);
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: calc(((100% - 940px) / 2)  + 183px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: calc(((100% - 720px) / 2)  + 123px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: calc(((100% - 720px) / 2)  + 123px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 502px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 540px) / 2)  + 106px);
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 440px;
+    margin-left: calc(((100% - 340px) / 2)  + -87px);
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    width: 440px;
+    margin-left: calc(((100% - 340px) / 2)  + -87px);
+  }
+}
